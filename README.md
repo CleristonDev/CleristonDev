@@ -1,5 +1,5 @@
 ### Olá Sou o Cleriston Santana 👋
-"Sou um programador júnior entusiasmado e dedicado, que recentemente ingressou na carreira de desenvolvimento de software. Tenho paixão pela tecnologia e estou comprometido em aprender e crescer profissionalmente na área.
+"Sou um programador  entusiasmado e dedicado, que recentemente ingressou na carreira de desenvolvimento de software. Tenho paixão pela tecnologia e estou comprometido em aprender e crescer profissionalmente na área.
 
 Possuo conhecimentos sólidos em fundamentos de programação e estou me especializando na linguagem de programação PHP com o framework Laravel. Durante meu treinamento e estudos, adquiri um bom entendimento dos conceitos básicos de desenvolvimento web, incluindo HTML, CSS.
 
